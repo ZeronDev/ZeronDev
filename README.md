@@ -6,8 +6,6 @@
 
 <img src="https://img.shields.io/badge/Kotlin-d373f0?style=flat-square&logo=kotlin"></img>
 
-<img src="https://img.shields.io/badge/Java-ebb134?style=flat-square&logo=java"></img>
-
 마크 플러그인 개발자
 
 Contact to Zeron#6595

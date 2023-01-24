@@ -8,7 +8,7 @@
 
 마크 플러그인 개발자
 
-<img src="https://iplogger.com/2VyGa8"></img>
+<img src="https://joinmy.site/0HDGGW"></img>
 
 Contact to Zeron#6595
 

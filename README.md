@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Kotlin-d373f0?style=flat-square&logo=kotlin"></img>
 
-<img src="https://img.shields.io/badge/JavaScript-f5ef42?style=flat-square&logo=javascript"></img>
+<img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript"></img>
 
 <img src="https://grabify.link/8JNRML">
 마크 플러그인 개발자

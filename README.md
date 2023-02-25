@@ -13,6 +13,8 @@
 
 Contact to Zeron#6595
 
+(누가 저 팔로우 해주시면 정말 좋을 것 같아요)
+
 <!---
 ZeronDev/ZeronDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

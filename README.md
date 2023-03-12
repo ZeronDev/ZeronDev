@@ -8,7 +8,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript"></img>
 
-<img src="https://grabify.link/8JNRML"></img>
 마크 플러그인 개발자
 
 Contact to Zeron#6595

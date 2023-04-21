@@ -10,6 +10,8 @@
 
 <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript"></img>
 
+<img src="https://img.shields.io/badge/C-ffffff?style=flat-square&logo=c"></img>
+
 마크 플러그인 개발자
 
 Contact to Zeron#6595

@@ -14,6 +14,12 @@
 
 <img src="https://img.shields.io/badge/C-ffffff?style=flat-square&logo=c"></img>
 
+중개입하
+
+학발니이
+
+생자다요
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeronDev&show_icons=true&theme=radical)
 
 <!---

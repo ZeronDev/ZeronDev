@@ -6,6 +6,8 @@
 
 <img src="https://img.shields.io/badge/Kotlin-d373f0?style=flat-square&logo=kotlin"></img>
 
+<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=java"></img>
+
 <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript"></img>
 
 <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript"></img>

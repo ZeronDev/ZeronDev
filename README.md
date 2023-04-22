@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Kotlin-d373f0?style=flat-square&logo=kotlin"></img>
 
-<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=java"></img>
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript"></img>
 
@@ -14,11 +14,7 @@
 
 <img src="https://img.shields.io/badge/C-ffffff?style=flat-square&logo=c"></img>
 
-마크 플러그인 개발자
-
-Contact to Zeron#6595
-
-(누가 저 팔로우 해주시면 정말 좋을 것 같아요)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeronDev&show_icons=true&theme=radical)
 
 <!---
 ZeronDev/ZeronDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
